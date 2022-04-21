@@ -1,0 +1,257 @@
+
+.alphabeticalOrder {
+    background-color: #5cb85c;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.topImage {
+    position: absolute;
+    transition: 750ms;
+}
+
+.topImage:hover {
+    opacity: 0;
+    transition: 750ms;
+}
+
+.introImages {
+    position: relative;
+}
+
+.panel {
+    border-width: 0px;
+}
+
+
+/*custom panel headers go here*/
+
+.panel-heading {
+    text-align: center;
+    font-size: large;
+}
+
+#AssassinsCreedOrigins .panel-heading {
+    background-color: #f9e1a9;
+    color: sandybrown;
+}
+
+#Antihero .panel-heading {
+    background-color: #4b5060;
+    color: white;
+}
+
+#Aporia .panel-heading {
+    background-color: #d67f15;
+    color: white;
+}
+
+#BattlefieldOne .panel-heading {
+    background-color: #576375;
+    color: white;
+}
+
+#BatmanTheEnemyWithin .panel-heading {
+    background-color: #1f2021;
+    color: white;
+}
+
+#Battlerite .panel-heading {
+    background-color: #c14d13;
+    color: white;
+}
+
+#BitBlasterXL .panel-heading {
+    background-color: #33FFF6;
+    color: white;
+}
+
+#BlackDesertOnline .panel-heading {
+    background-color: #000000;
+    color: white;
+}
+
+#BulletStorm .panel-heading {
+    background-color: #376393;
+    color: white;
+}
+
+#CallOfDutyADVWAR .panel-heading {
+    background-color: #F5ECCE;
+    color: white;
+}
+
+#CallOfDutyBlack3 .panel-heading {
+    background-color: #ff3300;
+    color: white;
+}
+
+#CallOfDutyGhost .panel-heading {
+    background-color: #0000ff;
+    color: white;
+}
+
+#Divinity2 .panel-heading {
+    background-color: #DC143C;
+    color: white;
+}
+
+#Doom .panel-heading {
+    background-color: #DAA520;
+    color: white;
+}
+
+#Divinity .panel-heading {
+    background-color: #DC143C;
+    color: white;
+}
+
+#DragonsDogma .panel-heading {
+    background-color: #000000;
+    color: white;
+}
+
+#Dishonoured2 .panel-heading {
+    background-color: #00008B;
+    color: white;
+}
+
+#DeusEx .panel-heading {
+    background-color: #FF8C00;
+    color: white;
+}
+
+#EvilWithin .panel-heading {
+    background-color: #ADD8E6;
+    color: white;
+}
+
+#EvilWithin2 .panel-heading {
+    background-color: #ADD8E6;
+    color: white;
+}
+
+#Evolve .panel-heading {
+    background-color: #FFA500;
+    color: white;
+}
+
+#FF15 .panel-heading {
+    background-color: #0000A0;
+    color: white;
+}
+
+#Fallout4 .panel-heading {
+    background-color: #0000FF;
+    color: white;
+}
+
+#FF7 .panel-heading {
+    background-color: #00FFFF;
+    color: white;
+}
+
+#GTA5 .panel-heading {
+    background-color:	#4db34d;
+    color: white;
+}
+
+#GTA4 .panel-heading {
+    background-color: #595959;
+    color: white;
+}
+
+#GhostReconWild .panel-heading {
+    background-color: #ff8000;
+    color: white;
+}
+
+#HalfLife2 .panel-heading {
+    background-color:	#ff4000;
+    color: white;
+}
+
+#Hitman .panel-heading {
+    background-color: #ff0000;
+    color: white;
+}
+
+#Hunt .panel-heading {
+    background-color: #000000;
+    color: white;
+}
+
+#Injustice .panel-heading {
+    background-color:	#0000ff;
+    color: white;
+}
+
+#Injustice2 .panel-heading {
+    background-color: #0000ff;
+    color: white;
+}
+
+#IcewindDale .panel-heading {
+    background-color: #4060bf;
+    color: white;
+}
+
+#JadeEmpire .panel-heading {
+    background-color:	#ff4000;
+    color: white;
+}
+
+#JustCause2 .panel-heading {
+    background-color: #ff0000;
+    color: white;
+}
+
+#JustCause3 .panel-heading {
+    background-color: #ff0000;
+    color: white;
+}
+
+#KillerInstinct .panel-heading {
+    background-color:	#808080;
+    color: white;
+}
+
+#KillingFloor .panel-heading {
+    background-color: #ff0000;
+    color: white;
+}
+
+#KillingFloor2 .panel-heading {
+    background-color: #ff0000;
+    color: white;
+}
+
+#LifeIsStrange .panel-heading {
+    background-color:	#ff0080;
+    color: white;
+}
+
+#Left4Dead .panel-heading {
+    background-color: #39c639;
+    color: white;
+}
+
+#Left4Dead2 .panel-heading {
+    background-color: #d2a92d;
+    color: white;
+}
+
+#Mafia2 .panel-heading {
+    background-color:	#000000;
+    color: white;
+}
+
+#MetalGear5 .panel-heading {
+    background-color: #999999;
+    color: white;
+}
+
+#Metro .panel-heading {
+    background-color: #ff0000;
+    color: white;
+}
